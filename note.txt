@@ -1,0 +1,7 @@
+
+Cài đặt thư viện multer: npm install multer
+
+# npm install dotenv --save
+tao .evn
+
+
